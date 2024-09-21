@@ -1,0 +1,1 @@
+# yakin-sayi-bulma
